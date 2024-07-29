@@ -5,3 +5,7 @@ build*
 tools/test.cpp
 !build.sh
 qtproj/LLM-Chat/CMakeLists.txt.user
+tinyllama-bf16
+tinyllama-int8
+phi-3-mini
+qwen1.5-1.8B
